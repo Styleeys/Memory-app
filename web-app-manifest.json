@@ -10,8 +10,8 @@
     ]
     "theme-color": "#9E9E9E",
     "background-color": "9E9E9E",
-    "scope": "xxxx/app1",
-    "start-url": "xxxx/app1/index.html",
+    "scope": "https://styleeys.github.io/Memory-app/",
+    "start-url": "https://styleeys.github.io/Memory-app/index.html",
     "display": "standalone",
     "orientation": "portrait"
     
